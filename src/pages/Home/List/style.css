@@ -1,0 +1,13 @@
+.containerCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.marginCard{
+    margin-bottom: 2rem;
+}
+
+.buttonChart{
+    margin-top: 2rem;
+}
